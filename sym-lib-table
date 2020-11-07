@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DiodesInc)(type Legacy)(uri /home/giom/repos/PAM8610-PCB/lib/pam8610.lib)(options "")(descr ""))
+)
